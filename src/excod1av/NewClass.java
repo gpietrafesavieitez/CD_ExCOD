@@ -11,4 +11,5 @@ package excod1av;
  */
 public class NewClass {
    int experimentoLoco = 60;
+   String otroExperimento = "Holaa";
 }
