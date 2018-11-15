@@ -10,5 +10,6 @@ package excod1av;
  * @author gpietrafesavieitez
  */
 public class NewClass {
-   
+   int experimentoLoco = 60;
+   String otroExperimento = "Holaa";
 }
